@@ -13,7 +13,7 @@ Do not use this script on a production environment as it can royally screw thing
 This script will randomize where the users are placed and which groups they are placed in. 
 
 # Instructions
-The AD_Landscape folder needs to be placed on the desktop of a user with admin privs. 
+Place the AD_Landscape folder anywhere in the file directory of a user with admin privs. 
 
 Edit the txt files as needed. 
 
