@@ -13,6 +13,3 @@ Write-Host Creating Groups
 
 Write-Host Creating Users
 .($basescriptPath + '\CreateUsers.ps1') -civ $civ
-
-Write-Host Adding Users to Groups
-.($basescriptPath + '\AddUsersToGroup') -civ $civ
